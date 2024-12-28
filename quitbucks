@@ -1,0 +1,263 @@
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Quitbucks - Your Tobacco-Free Journey</title> 
+
+    <link rel="stylesheet" href="styles.css"> 
+
+    <style> 
+
+        body { 
+
+            font-family: Arial, sans-serif; 
+
+            margin: 0; 
+
+            padding: 0; 
+
+            background-color: #f9f9f9; 
+
+        } 
+
+        header { 
+
+            background-color: #4CAF50; 
+
+            color: white; 
+
+            padding: 15px 20px; 
+
+            text-align: center; 
+
+        } 
+
+        nav { 
+
+            display: flex; 
+
+            justify-content: center; 
+
+            background-color: #333; 
+
+        } 
+
+        nav a { 
+
+            color: white; 
+
+            padding: 14px 20px; 
+
+            text-decoration: none; 
+
+            text-align: center; 
+
+        } 
+
+        nav a:hover { 
+
+            background-color: #ddd; 
+
+            color: black; 
+
+        } 
+
+        .hero { 
+
+            text-align: center; 
+
+            padding: 50px; 
+
+            background-color: #e8f5e9; 
+
+        } 
+
+        .hero h1 { 
+
+            font-size: 2.5em; 
+
+            color: #4CAF50; 
+
+        } 
+
+        .hero p { 
+
+            font-size: 1.2em; 
+
+            color: #555; 
+
+        } 
+
+        .cta-button { 
+
+            background-color: #4CAF50; 
+
+            color: white; 
+
+            padding: 15px 25px; 
+
+            text-decoration: none; 
+
+            border-radius: 5px; 
+
+            font-size: 1.2em; 
+
+        } 
+
+        .cta-button:hover { 
+
+            background-color: #45a049; 
+
+        } 
+
+        .features { 
+
+            display: flex; 
+
+            flex-wrap: wrap; 
+
+            justify-content: center; 
+
+            padding: 20px; 
+
+            background-color: white; 
+
+        } 
+
+        .feature { 
+
+            flex: 1; 
+
+            max-width: 300px; 
+
+            margin: 10px; 
+
+            padding: 20px; 
+
+            border: 1px solid #ddd; 
+
+            border-radius: 10px; 
+
+            text-align: center; 
+
+            background-color: #f4f4f4; 
+
+        } 
+
+        footer { 
+
+            text-align: center; 
+
+            padding: 10px; 
+
+            background-color: #333; 
+
+            color: white; 
+
+            margin-top: 20px; 
+
+        } 
+
+    </style> 
+
+</head> 
+
+<body> 
+
+  
+
+<header> 
+
+    <h1>Quitbucks</h1> 
+
+    <p>Your Partner in Quitting Tobacco</p> 
+
+</header> 
+
+  
+
+<nav> 
+
+    <a href="#about">About Us</a> 
+
+    <a href="#features">Features</a> 
+
+    <a href="#contact">Contact</a> 
+
+</nav> 
+
+  
+
+<section class="hero"> 
+
+    <h1>Start Your Tobacco-Free Journey Today</h1> 
+
+    <p>Track your progress, earn rewards, and connect with healthcare experts to quit tobacco for good.</p> 
+
+    <a href="#signup" class="cta-button">Get Started</a> 
+
+</section> 
+
+  
+
+<section id="features" class="features"> 
+
+    <div class="feature"> 
+
+        <h2>Track Your Progress</h2> 
+
+        <p>Monitor your milestones with our easy-to-use dashboard.</p> 
+
+    </div> 
+
+    <div class="feature"> 
+
+        <h2>Earn Rewards</h2> 
+
+        <p>Get exciting incentives for staying tobacco-free.</p> 
+
+    </div> 
+
+    <div class="feature"> 
+
+        <h2>Expert Support</h2> 
+
+        <p>Connect with doctors and counselors to guide your journey.</p> 
+
+    </div> 
+
+</section> 
+
+  
+
+<section id="about" class="hero"> 
+
+    <h1>About Quitbucks</h1> 
+
+    <p>Quitbucks is a gamified platform designed to help individuals quit tobacco by providing health tracking tools, rewards, and expert support. Our mission is to make quitting achievable and rewarding for everyone.</p> 
+
+</section> 
+
+  
+
+<footer> 
+
+    <p>&copy; 2024 Quitbucks. All rights reserved.</p> 
+
+    <p>Contact us: <a href="mailto:info@quitbucks.com">info@quitbucks.com</a></p> 
+
+</footer> 
+
+  
+
+</body> 
+
+</html> 
+
+ 
